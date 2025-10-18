@@ -33,6 +33,7 @@ import net.micode.notes.data.Notes.TextNote;
 
 import java.util.ArrayList;
 
+// commit_test：TODO: add call note
 
 public class Note {
     private ContentValues mNoteDiffValues;
